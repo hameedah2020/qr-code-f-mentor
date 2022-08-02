@@ -127,7 +127,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 main {
-  width: 15rem;
+  width: 17rem;
   margin: auto;
   display: flex;
   justify-content: center;
@@ -143,6 +143,7 @@ main {
   align-items: center;
   border-radius: 1rem;
   padding: 0.5rem;
+  padding-bottom: 1rem;
 }
 img {
   width: 100%;
@@ -162,15 +163,16 @@ img {
   font-weight: 400;
   margin-top: 15px;
   margin-bottom: 1rem;
-  max-width: 11rem;
+  max-width: 17rem;
   justify-self: normal;
+  margin-bottom: 1rem;
 }
 .text1 {
   color: hsl(218, 44%, 22%);
   font-family: "Outfit", sans-serif;
   font-weight: 700;
   margin-top: 15px;
-  max-width: 200px;
+  max-width: 12rem;
 }
 a {
   text-decoration: none;
